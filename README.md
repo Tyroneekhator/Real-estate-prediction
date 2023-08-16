@@ -8,10 +8,10 @@
 
 # Results
 ## Home screen
-![home_screen](C:\Users\ekhat\Downloads\Real-estate-prediction-main\homescreen.png)  
+![home_screen](/homescreen.png)  
 ---
 ## estimate price and location
-![estimate_price_with_location](C:\Users\ekhat\Downloads\Real-estate-prediction-main\resultandlocation.png)  
+![estimate_price_with_location](/resultandlocation.png)  
 ---
 ## EDA house prices
-![EDA_house_prices](C:\Users\ekhat\Downloads\Real-estate-prediction-main\EDAhouseprices.png)  
+![EDA_house_prices](/EDAhouseprices.png)  
