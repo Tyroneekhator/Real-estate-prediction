@@ -1,4 +1,4 @@
 ## To run the application
-Download and open on python
+# Download and open on Python
 note DO NOT TOUCH THE  JUYPTER NOTEBOOK FILE
-streamlit run app.py
+Streamlit run app.py
